@@ -1,0 +1,26 @@
+.order-Confirmed{
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+
+
+}
+.order-Confirmed h3{
+    background: rgb(106, 102, 102);
+    color: #fff;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+.order-Confirmed button{
+    background-color: #f0c14b;
+    border-radius: 5px;
+    /* width: 100%; */
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    padding: 10px 30px;
+    margin-top: 30px;
+
+}
